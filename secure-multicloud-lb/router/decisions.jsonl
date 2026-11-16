@@ -1,0 +1,642 @@
+{"ts": 1794807168.6623862, "request_id": "443125aa61b54af3a8f983f25d2d318f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 404, "latency_ms": 4.6}
+{"ts": 1794807213.2073958, "request_id": "c8ea1a855cac47bea6f04bb06ed5b297", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794807215.2867022, "request_id": "ffd088e9c41a4cac8241c05525410781", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794807217.315036, "request_id": "7e6d801b21bc4544aa5ef31576b98576", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794807219.3705025, "request_id": "d1b8fd78d4864576962404900edd3618", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794807221.4016767, "request_id": "4fe549587c5e4cf98454efbd6890a1f8", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.6}
+{"ts": 1794807223.436669, "request_id": "2059b677768d47b694570cfc24744333", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.6}
+{"ts": 1794807225.503246, "request_id": "70226484d6eb474ab8b8332aa1a45c65", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.2}
+{"ts": 1794807227.555239, "request_id": "29583d95b9ca4b6985f0ce6e13d7eaca", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.9}
+{"ts": 1794807229.8397236, "request_id": "522b9424b94440db9fcc86f856b85fb1", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 268.3}
+{"ts": 1794807231.8751602, "request_id": "915f7d79fdd04698b5e5c5f94c44bc4a", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794807233.9258428, "request_id": "84ac4e52c917497199bcf5c53e8e11bf", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794807235.961917, "request_id": "20cf27968e574effb793f171651da2ba", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794807237.9970088, "request_id": "2b27c86caf15420e902cff7f5359e98d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 7.2}
+{"ts": 1794807240.0361714, "request_id": "b92dbad96b0548859bbf808a54084af4", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 7.1}
+{"ts": 1794807242.0682833, "request_id": "dd07e45c39e8473ab249cfb697953208", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794807244.1188042, "request_id": "547405700c1e4dec86003300c9fee1ba", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807246.1538067, "request_id": "bf6c10f6a3984fd29a7cd124525ca055", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.6}
+{"ts": 1794807248.2056658, "request_id": "af2803edb7c44b89a093557605064edb", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794807250.2732694, "request_id": "15201d01c56449aa8ca78ddd9e5bebe9", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 7.0}
+{"ts": 1794807252.29279, "request_id": "20552d9a88894710ab855f12aad7ab9e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807254.3435433, "request_id": "e17239fc4c284e48ba3bce2803fe0a3a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794807256.3943086, "request_id": "5e2bcb56fbb64e658eae4374c87609e3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 8.2}
+{"ts": 1794807258.4137347, "request_id": "2aa86fac80a743fdacf446fdcfb31cc2", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794807260.7157657, "request_id": "ef6236d69fd44ff6ae8e0fd5e9c82c8d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 283.6}
+{"ts": 1794807262.751694, "request_id": "de53cc72b02143e0afe97a462ae5f627", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794807264.808903, "request_id": "5b583e31fa344e32824ba46e7da9bcce", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 13.0}
+{"ts": 1794807266.8530595, "request_id": "9413cd017c2f465889e9de790e3d856f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794807268.8725774, "request_id": "85318d9d0ad04c1fb94aaf330db8f9ba", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.9}
+{"ts": 1794807270.9388266, "request_id": "d63590f30c2a4f48b1381732b7452f60", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807272.9752774, "request_id": "b743852f449647c4aa3afdb46c0cde72", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.2}
+{"ts": 1794807275.0258217, "request_id": "68c37e303624466d8489bdf9a738fd77", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.2}
+{"ts": 1794807277.0696285, "request_id": "8fc4ad5682c24b3cb0ce7e4bfb4dce65", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807279.14352, "request_id": "7b0c86451f494486a414731f7e7bb272", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807281.1902816, "request_id": "4ee5783cd2034777a96c9c3c43341a51", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807283.2297242, "request_id": "3695cae5fe41474aa6aa2475d8768ae2", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807285.2804954, "request_id": "bee26191b9594778ab787a7e6558c87f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807287.3166041, "request_id": "21cf40f2b93a414f874be1e39c14cdc0", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794807289.3673708, "request_id": "e150d522ee99474c900c8874f47be56a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807291.3867702, "request_id": "ce8a77c2615145b589097eb5066b5108", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.2}
+{"ts": 1794807293.429248, "request_id": "3a8a0a23be9341bdb4710099186d5255", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.1}
+{"ts": 1794807295.4580426, "request_id": "bbd3cc335c644f25a53f1d5e4757dae0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807297.4929986, "request_id": "c4ac7a829c6245ea81dbfa2f8e1165a9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.6}
+{"ts": 1794807299.5282626, "request_id": "45c2a3d687694b7abf592413247fed41", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.1}
+{"ts": 1794807301.578962, "request_id": "f228952d23eb4dc0a8642d4e43f27de7", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794807303.5995874, "request_id": "f07822e1eb2843d99ac87fae82691209", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807305.6342185, "request_id": "604ce944a8c04796addb96d5dbe60e04", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794807307.6852894, "request_id": "5bd13f4e6e38491788c0759287afd7fa", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794807309.737798, "request_id": "52b0ed5e1c334d3da6bc98fdbd8790d9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807311.7761366, "request_id": "f7c1601a7d854f8098f078bf07b97a94", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807313.8542905, "request_id": "adaae88058a649d7b4464cf1d3e20897", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794807315.9049006, "request_id": "12540d8c5b0e457b86aa2631f45ca4e7", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807317.9411068, "request_id": "54169f455511450ab0a58e849357c108", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807319.977168, "request_id": "afa3d43550d34d6bae404bcba660353b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807322.0147982, "request_id": "253768736a404b7986b4bc87c014a590", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794807324.0472562, "request_id": "8ab59e30f1f8410f92c95e6f16825d69", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.9}
+{"ts": 1794807326.0825205, "request_id": "5597807fb68a4db3b9260e5ae3635829", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794807328.1331406, "request_id": "0ca87c618ced4900b428f1ac7838bb96", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794807330.1688766, "request_id": "a5ca459f70fb4014a53b2d7692f105f7", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.8}
+{"ts": 1794807332.207621, "request_id": "5439245f32e447c4a6ad68ca4ea1068b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 8.8}
+{"ts": 1794807334.2405167, "request_id": "3dff464c93654294bb5707e426d5f4e2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.1}
+{"ts": 1794807559.0767996, "request_id": "496bada40f0e4946bd0526e12deda499", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 26.6}
+{"ts": 1794807559.1165714, "request_id": "290cbe7ed0fe478987b264108545391d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.8}
+{"ts": 1794807559.163462, "request_id": "ffa0e6af47e94242a96353ccc84f3f96", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 26.9}
+{"ts": 1794807559.2103534, "request_id": "46bc8375bc8c447ebf3b0029f637283c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.4}
+{"ts": 1794807559.2572408, "request_id": "b9d7e8abaeff4f43846e0077e5b85c28", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 33.1}
+{"ts": 1794807559.3041303, "request_id": "3fce9875c5994c428222f917d22ff7f9", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 26.4}
+{"ts": 1794807559.366657, "request_id": "ecce609f330e440097bf4258178928a2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.5}
+{"ts": 1794807559.3979077, "request_id": "c5afa593c66740fbb6a661279fbaaaf7", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 23.7}
+{"ts": 1794807559.4604285, "request_id": "4601bb6853ce4737a1b62fec45d03eb5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 28.2}
+{"ts": 1794807559.5073228, "request_id": "a76126285210490983fe1ee7290bdb2e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 28.9}
+{"ts": 1794807559.549832, "request_id": "c5d9a6fb3ba54c319f9608d5c1321c52", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 28.1}
+{"ts": 1794807559.7247448, "request_id": "d5abdae5b2ce48469edad5aaabcce49f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 121.7}
+{"ts": 1794807559.8501735, "request_id": "a3288f2c728f4497a23505a494e36e80", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 82.5}
+{"ts": 1794807560.049704, "request_id": "32289c5126e14d49a73eb29e9e9c0177", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 142.5}
+{"ts": 1794807560.132527, "request_id": "0b4d0fc510dc48fba105fccfe4442efd", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 43.7}
+{"ts": 1794807560.1720705, "request_id": "ac63e441d14141d2ba8e2019204d459c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.2}
+{"ts": 1794807560.3125188, "request_id": "3ca5d881dc4b49f0980ddc7bdc7b02a2", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 122.1}
+{"ts": 1794807560.3742564, "request_id": "56a3bf40acd34d9ba04622408954ddbb", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 32.2}
+{"ts": 1794807560.4069555, "request_id": "4b2b43bf52d1471c8fde4544c1c254f1", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.3}
+{"ts": 1794807560.4538448, "request_id": "a45da48d5f1d4c6089d2de6db69f5a85", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.4}
+{"ts": 1794807560.4989998, "request_id": "e23b148ccfcd41dfb82b378d8750357c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.9}
+{"ts": 1794807560.5388782, "request_id": "f4a04cdca46f4ded9149f12673b7b5fb", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.4}
+{"ts": 1794807560.5701447, "request_id": "53b9207afc1844ea9c58b10b595930f5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.4}
+{"ts": 1794807560.6325037, "request_id": "cc58529515c74d10bfbb3c7bc932b7ad", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.4}
+{"ts": 1794807560.6735716, "request_id": "9d0a2825b73e4593b55ffeaf005fb492", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.2}
+{"ts": 1794807560.7148068, "request_id": "4de466cd0caf4fdfa0abe29f87104c5f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 21.1}
+{"ts": 1794807560.754209, "request_id": "2912cef076684d23909490161c0bd03b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.8}
+{"ts": 1794807560.7980685, "request_id": "d8bc604cdfc8430ab356d4d01e2fa490", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.3}
+{"ts": 1794807560.8383658, "request_id": "837fe15f17ed4c5eafda01ffcf27f79e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.4}
+{"ts": 1794807560.873222, "request_id": "6edb0f42956b4282ab55241e9452397d", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 23.4}
+{"ts": 1794807560.922967, "request_id": "973594583615463a9036080af9466e5a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 27.5}
+{"ts": 1794807560.9643722, "request_id": "ae196bbe8ec441dc92dd40e9642a51c7", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.4}
+{"ts": 1794807561.0064805, "request_id": "856c3384229b48e0b0ef2da09243569c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.5}
+{"ts": 1794807561.052945, "request_id": "1444775afac84637b62dbec765e3f5f0", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.8}
+{"ts": 1794807561.0895376, "request_id": "462453e497b4405d88e7553b4419d4d8", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 23.2}
+{"ts": 1794807561.122693, "request_id": "1c0e28055cb54867aec29c9463093b69", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 20.9}
+{"ts": 1794807561.1641665, "request_id": "94ccc3a908bc4f2fa6151be8e565e72c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.3}
+{"ts": 1794807561.203777, "request_id": "8a8b052f0c684181b11a856700e88e70", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 24.5}
+{"ts": 1794807561.250669, "request_id": "abd5ad91333c437dbff377d8a7d2646b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 26.5}
+{"ts": 1794807561.2972403, "request_id": "39d4cca3a27743668a7e12f7ae3d4478", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.8}
+{"ts": 1794807561.3391972, "request_id": "54e20cce6c7e40b6b1ab2a971e61d635", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 23.7}
+{"ts": 1794807561.3723369, "request_id": "46df3e6a5de449f1b560282748675084", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.3}
+{"ts": 1794807561.4103868, "request_id": "ea28daf4941742b5bc240992486b2141", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.7}
+{"ts": 1794807561.455631, "request_id": "ed22bee68ba84cfc9dd80b4a46d06a91", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.2}
+{"ts": 1794807561.4887044, "request_id": "cdd7a509ca8d4c19b261071dfede6b32", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 20.9}
+{"ts": 1794807561.5300002, "request_id": "11186039d9f549c0a8e41a0ea3eb448d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.9}
+{"ts": 1794807561.568935, "request_id": "e26f087d92a54c73ad2820939857a57f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 21.3}
+{"ts": 1794807561.6109512, "request_id": "d28520151265492a87f864538a85f2e5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.3}
+{"ts": 1794807561.6551542, "request_id": "58b78987b67e4adeb4db97a65d6bd85e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 26.6}
+{"ts": 1794807561.698795, "request_id": "e69a8a5f1fbc4137a63d5c27d02a7086", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.1}
+{"ts": 1794807561.7463758, "request_id": "38c3d129fadc46808071b771807dc42f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 28.2}
+{"ts": 1794807561.8051543, "request_id": "9022f50ee2ab4b9aa3062606b205ae31", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 34.1}
+{"ts": 1794807561.8550398, "request_id": "42f61af0b90a4df787f3697ce065d10a", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.7}
+{"ts": 1794807561.896304, "request_id": "490e8efbe92d4e0b88fc0c6f935af3cf", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 28.2}
+{"ts": 1794807561.9460304, "request_id": "e706d9ff626a4425a687b66cafc88894", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.4}
+{"ts": 1794807561.979384, "request_id": "3f9e826622b0468f8df038435c33d49a", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 21.1}
+{"ts": 1794807562.0236707, "request_id": "9d5cc46f506c4c99b52ad9d0218a500d", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 25.2}
+{"ts": 1794807562.0630713, "request_id": "49704ae3f5af42dc8393d6d26a1fbdda", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 22.9}
+{"ts": 1794807562.1056795, "request_id": "dab74c5f3b1645afb8f9da2e340d8ca6", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 20.3}
+{"ts": 1794807562.1504195, "request_id": "2176a246b7e543528ce6249333719bca", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 21.5}
+{"ts": 1794807758.0969725, "request_id": "9ea29374012a4b14867d1290ebf65449", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 276.1}
+{"ts": 1794807758.292674, "request_id": "29cd7297e983451b92646f56d45673fe", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 493.0}
+{"ts": 1794807758.3083057, "request_id": "698d5eb3af004e21a606dda0e2658832", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 508.7}
+{"ts": 1794807758.3708253, "request_id": "050466e4057f4a06b3f96cacae6eaf47", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 520.5}
+{"ts": 1794807758.5583804, "request_id": "d5e3aa2d3413440982c05eaf858bebf2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 738.4}
+{"ts": 1794807758.636527, "request_id": "9083c4fb6ef94fe5b5b92695a515408d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 799.5}
+{"ts": 1794807758.7615716, "request_id": "1a03319f99ba46c8be1da68356fcf15f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 811.8}
+{"ts": 1794807758.8866084, "request_id": "32ae809e85a9432aa07a96306e7e1a36", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 987.4}
+{"ts": 1794807759.082649, "request_id": "cda60f8668f1462babe02f04b2e1c983", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1167.5}
+{"ts": 1794807759.0982783, "request_id": "9a1e82238f074356a7f42e544a18f829", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 792.6}
+{"ts": 1794807759.1608, "request_id": "55a57d7395c14198aa08bb779b366301", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1044.5}
+{"ts": 1794807759.2541249, "request_id": "6320628832064565a9c31098e539f0f7", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1285.2}
+{"ts": 1794807759.2798536, "request_id": "7f2cba89c32a486eac118412a09321e3", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 941.7}
+{"ts": 1794807759.3118865, "request_id": "b57c39adfa114444bbb5c7ed985e57ca", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 571.7}
+{"ts": 1794807759.3533063, "request_id": "b0f77b30c3bc47e4bd17b6452734e2bf", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 496.8}
+{"ts": 1794807759.403014, "request_id": "b6d3867e440d43d6bc668bb75f20a76f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 997.7}
+{"ts": 1794807759.4499013, "request_id": "125e6d4e11024845a2c274b9eea8398e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 421.1}
+{"ts": 1794807759.6694293, "request_id": "ea07312b1fed480f8e7bd351d9d5e312", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 410.0}
+{"ts": 1794807759.7191105, "request_id": "f3fac7509d094fb0bebc37ab9582a712", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 387.1}
+{"ts": 1794807759.734734, "request_id": "a577a70a548943a7ac10f97627fb1992", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 423.5}
+{"ts": 1794807759.7947776, "request_id": "7531f1382b5a426cbf4f36f68b2616c9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 402.8}
+{"ts": 1794807759.8187716, "request_id": "3a4ab7d1654d4e82a9a70b00c494f952", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 411.9}
+{"ts": 1794807759.8343976, "request_id": "c31b3f22fb0940959e25da477d077979", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 360.9}
+{"ts": 1794807759.8656604, "request_id": "3cb46609f9fc4f4abba5be833448520f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 506.5}
+{"ts": 1794807759.9103718, "request_id": "8ce90a3ae07b4a51a117ee4b1b2f4cee", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 444.7}
+{"ts": 1794807759.9341412, "request_id": "044504ee29384850baf6c864d8c92578", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 506.3}
+{"ts": 1794807760.0023742, "request_id": "f56776165c444af7967d1dba250537db", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 502.5}
+{"ts": 1794807760.077007, "request_id": "09caec356cba43828498f8915dad3fd5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 373.6}
+{"ts": 1794807760.1081395, "request_id": "38efbc0b112042bdbb1da40634598937", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 344.1}
+{"ts": 1794807760.2686744, "request_id": "7125ba8644bb46938be2df8f931e082f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 381.3}
+{"ts": 1794807760.301727, "request_id": "df38691daab748a7b1355058fc5eaeea", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 364.7}
+{"ts": 1794807760.3195357, "request_id": "80ca9ed64609415b817da179551051e5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 348.2}
+{"ts": 1794807760.3512175, "request_id": "ca6a1e6aeaa645f1bf31918281104dba", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 575.2}
+{"ts": 1794807760.475765, "request_id": "c6589c71d4d6417db26a2c04bb574197", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 461.7}
+{"ts": 1794807760.4913943, "request_id": "1963145e915c4225bca7a96dbfd85428", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 402.4}
+{"ts": 1794807760.5226545, "request_id": "eecd4846613641f190c94621f5acaad0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 568.2}
+{"ts": 1794807760.5361645, "request_id": "0cbb5c67cc724a02a02ea21a0622364e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 410.0}
+{"ts": 1794807760.576261, "request_id": "3c4ad32a10794defb59ea89378c89ab8", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 530.7}
+{"ts": 1794807760.6590972, "request_id": "71d46000a6734895b7de41f0d37206fd", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 370.5}
+{"ts": 1794807760.6832159, "request_id": "e21da77abd5e4900980805b61b5abd17", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 544.7}
+{"ts": 1794807760.714474, "request_id": "4d6dce14f45d43fda4ddf381c3732f4a", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 371.9}
+{"ts": 1794807760.7842607, "request_id": "59093fc1423148f09ee4444998fc6021", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 383.7}
+{"ts": 1794807760.983921, "request_id": "19ca9b636bfe411c9d6d24ca80ee6fe4", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 412.0}
+{"ts": 1794807761.0753481, "request_id": "4cf860948cac4d70ac57499948bf5216", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 699.1}
+{"ts": 1794807761.2959535, "request_id": "2617edf18de147978f36139911956fca", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 691.4}
+{"ts": 1794807761.4270477, "request_id": "9b7a1cce11894051ab38ea23f9c65eee", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 811.6}
+{"ts": 1794807761.6496687, "request_id": "b4919f191d93418cbe3f448aa2274e6e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 998.0}
+{"ts": 1794807761.6639957, "request_id": "0950ea80f5b04212b0a7baa0043e6c97", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 933.6}
+{"ts": 1794807761.6743612, "request_id": "8ad687968f9c4feaa88f3db0f3f2fc3e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1087.3}
+{"ts": 1794807761.69101, "request_id": "5fe7cbc5d58d4c9296cedf0d8bbfb943", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 930.8}
+{"ts": 1794807761.6996596, "request_id": "cb570ba700f44b87a5d2b0f9d0ad0397", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 898.6}
+{"ts": 1794807761.7408543, "request_id": "3a46f2ad57bc45f79b02e31b87dc7774", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 975.1}
+{"ts": 1794807761.8326726, "request_id": "e35755a92be44b5fbc0e7924a526c5e6", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 646.8}
+{"ts": 1794807761.916062, "request_id": "14795913875c417590f4fc52d036759a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 488.1}
+{"ts": 1794807762.0652409, "request_id": "fb804e52abd142469505174f80bc9013", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 424.6}
+{"ts": 1794807762.198797, "request_id": "045ebe1370d74874bf7ff0653dc6bcb1", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 464.5}
+{"ts": 1794807762.2153366, "request_id": "6952c5da90e346a68edf4f8b120e5f04", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 372.4}
+{"ts": 1794807762.2319584, "request_id": "cd084bb57a1c404eaed04abbd242a65c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 375.6}
+{"ts": 1794807762.2734077, "request_id": "006585b9f7174589bc24da1293fa897c", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 398.6}
+{"ts": 1794807762.2985713, "request_id": "7d14e102bf3e4952a9c64bcb3e29c6f8", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 411.5}
+{"ts": 1794807762.3151617, "request_id": "ac80b08071514ca18d4bfd63f6e78343", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 370.1}
+{"ts": 1794807762.3508952, "request_id": "92baefa18ad14ef7b2ae2d6453c85599", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 416.1}
+{"ts": 1794807762.3912427, "request_id": "0c10134ec9724d008a3aa174fd377a43", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 469.8}
+{"ts": 1794807762.4064095, "request_id": "f67f90c4ee5c4f749b7436ea597774e8", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 448.6}
+{"ts": 1794807762.4815285, "request_id": "260376bb1cec4721994044b8f1b6ebbd", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 413.3}
+{"ts": 1794807762.6848621, "request_id": "aef206660ebe43279e1608dcb61c3ee5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 437.6}
+{"ts": 1794807762.7311926, "request_id": "df46b801d83245b2a5b403ce611cca19", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 399.5}
+{"ts": 1794807762.7543366, "request_id": "7b3a61ffad064e1aa4317f171293efb5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 456.8}
+{"ts": 1794807762.7644773, "request_id": "40270d5e110a49ccb6de8c5714e0b392", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 379.6}
+{"ts": 1794807762.797555, "request_id": "6fcc0e3d8b824c76b154c1f5039c415f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 364.1}
+{"ts": 1794807762.8211794, "request_id": "f1ef421bcb4341ce9d9f64a7ae34d21d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 404.0}
+{"ts": 1794807762.8644016, "request_id": "f45940bc521246ed90be30ca511c71a5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 422.9}
+{"ts": 1794807762.8884351, "request_id": "bf993219d25049ddb514dbe4f4982946", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 421.8}
+{"ts": 1794807762.9474716, "request_id": "81425314e56a45eda08a5e3e8c07213c", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 463.1}
+{"ts": 1794807762.9700155, "request_id": "b7904e40cf764509ba7fe311808bcf28", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 464.6}
+{"ts": 1794807763.0522635, "request_id": "6e6e41c1384d43dcbee16e64bf92857a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 348.4}
+{"ts": 1794807763.1804857, "request_id": "315bd0a7c60341f292365499603c39af", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 346.7}
+{"ts": 1794807763.2470415, "request_id": "5c2f7dc33a6f45e89ee712668f83e0f4", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 395.8}
+{"ts": 1794807763.2633884, "request_id": "752b3cbb342145338823acaab9ea4444", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 476.3}
+{"ts": 1794807763.2882936, "request_id": "8c04833befc740388032088b64dc1a4e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 358.0}
+{"ts": 1794807763.302414, "request_id": "11bb2f8f86f04c11a60e42a4d3b40f33", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 404.7}
+{"ts": 1794807763.363549, "request_id": "7dc97ce05ecb4a67b27c8d680c9bf9f3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 374.0}
+{"ts": 1794807763.4027898, "request_id": "80f5fb19d2ef4c968e275938438de0ad", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 438.4}
+{"ts": 1794807763.4133797, "request_id": "d3c01a2a8d9842cb9cdf2c2ab7f152d6", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 385.3}
+{"ts": 1794807763.4467657, "request_id": "92acec488dd94b489ecadcabde30d142", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 434.8}
+{"ts": 1794807763.4547644, "request_id": "89ac5384f31b4d6e9bfc1702a3c585ab", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 362.9}
+{"ts": 1794807763.513221, "request_id": "09aae2640e4144a28e2285458b90c883", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 312.3}
+{"ts": 1794807763.6793513, "request_id": "aca04e1c01e14582b1eccdd818b77f6f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 363.0}
+{"ts": 1794807763.7058945, "request_id": "b951bff7df2e4db78b90cd37cbbb2beb", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 372.4}
+{"ts": 1794807763.7998116, "request_id": "edda7c5a81b8451185c910194fa3f20b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 410.8}
+{"ts": 1794807763.8913162, "request_id": "21f0a57c9b574adc8d147ce2c549bab5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 416.8}
+{"ts": 1794807763.9039674, "request_id": "a64d764ceb7540b8a603795bf4284a1f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 406.8}
+{"ts": 1794807763.9349973, "request_id": "ff777f419d75472da3ca040caca0eb27", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 512.7}
+{"ts": 1794807763.9458988, "request_id": "a3c31c9a5301492fb04d37f9d1d20ad3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 399.4}
+{"ts": 1794807763.9667401, "request_id": "f2e7954fb0804e758dcf0a0ee9152ca1", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 437.8}
+{"ts": 1794807763.9929714, "request_id": "1d32c258d74a4d08ae2133e573c5bf32", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 430.3}
+{"ts": 1794807763.999212, "request_id": "5de26932cc3544768dde6091a5954d2d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 308.7}
+{"ts": 1794807764.0195658, "request_id": "885bf9823770442abb890315c46788e9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 498.8}
+{"ts": 1794807764.0303462, "request_id": "d7d375302e1b49ff922d72638eed7009", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 314.0}
+{"ts": 1794807764.1263573, "request_id": "bee6ffb5aeb540c1b0c1fc4c6c443158", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 323.1}
+{"ts": 1794807859.5586462, "request_id": "af0635cb32fc4c84b8c7d8f559bbdc5e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 249.3}
+{"ts": 1794807859.566644, "request_id": "565a601f41f640b591c178bb93f48bd7", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 248.6}
+{"ts": 1794807859.5836322, "request_id": "8b61178c5e3d4833a41e2ecb4eb5d7de", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 255.6}
+{"ts": 1794807859.8392134, "request_id": "e5d554c5dd7d4c2e96bd43a240e83d4f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 237.4}
+{"ts": 1794807859.854849, "request_id": "9101ffae08e94b118c488eb94a4ee0cc", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 242.4}
+{"ts": 1794807859.8861043, "request_id": "893381c86ffc4ef48979f3be94cee195", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 257.8}
+{"ts": 1794807860.1658518, "request_id": "6302e49633314e02a44ba7f1ab56ee46", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 297.7}
+{"ts": 1794807860.2365284, "request_id": "b1ce7a8439524f8986cfa6b78be0434e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 341.3}
+{"ts": 1794807860.361568, "request_id": "e6cf55a833fc4667a630cd80a273ce79", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 458.8}
+{"ts": 1794807860.6897893, "request_id": "21595bd79af04bddb25a484ffe83b069", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 344.9}
+{"ts": 1794807860.7160554, "request_id": "5e76aae00a184d95b5a162719c7c6f35", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 387.9}
+{"ts": 1794807860.7317052, "request_id": "7d729700706a4dce987a4b5d517c0df4", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 331.6}
+{"ts": 1794807860.9895844, "request_id": "01d2077f0f52432898cc00f87a7a19bd", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 241.5}
+{"ts": 1794807861.0052075, "request_id": "3642ae7d00cc4dc0b8fcd370aad0b306", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 258.4}
+{"ts": 1794807861.0364704, "request_id": "aeace6272fd84f819d1b254a1d9f67ea", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 268.9}
+{"ts": 1794807861.2558293, "request_id": "df1da889f91645d3abcc01d1dbaf3d6a", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.8}
+{"ts": 1794807861.280426, "request_id": "a3aa7f29cf0a448cbbdcb8743de2a3fc", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 236.4}
+{"ts": 1794807861.2971442, "request_id": "cfd16f9cde8d41b08f46a10909c696c2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 235.0}
+{"ts": 1794807861.4967651, "request_id": "3fcc8cfa3a964b2387cc8f7b3afcffb9", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.1}
+{"ts": 1794807861.5423813, "request_id": "4e353e92faa04c12b4dfa9c336b10c63", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 229.9}
+{"ts": 1794807861.563651, "request_id": "4f2499173e8e43c490d77ccbca536e2e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 237.1}
+{"ts": 1794807861.7318978, "request_id": "1c88dea260e14bfc83f75c1e7ccc518e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 223.6}
+{"ts": 1794807861.804762, "request_id": "5ba6836a53dc443ab9f3f9728281d4e3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.0}
+{"ts": 1794807861.821584, "request_id": "c97d43d4bae8435c82c9db64578a78bb", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 231.0}
+{"ts": 1794807861.9700623, "request_id": "ffa34d13ca8b4f6c8ffae9fee43a8ec0", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 230.4}
+{"ts": 1794807862.0623717, "request_id": "c58884b216e74fb8ab5a8f694d700fd1", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.0}
+{"ts": 1794807862.0792077, "request_id": "a3762b8519954e65b9955554872ebc14", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 232.4}
+{"ts": 1794807862.2272463, "request_id": "ad7ea15742894707a30c18653d6a65fc", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.1}
+{"ts": 1794807862.3172312, "request_id": "8f4ce6708132413689676382d8125788", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.7}
+{"ts": 1794807862.3328514, "request_id": "ddb5320a1f6345f79c88faa34f4e6872", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 230.7}
+{"ts": 1794807862.4706697, "request_id": "e6466e36d08647b5a380b7e6d1d50123", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 224.7}
+{"ts": 1794807862.5783775, "request_id": "0aa462345ba84c69a97678845bf938ce", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.3}
+{"ts": 1794807862.595008, "request_id": "f9e392a848d44025888b447ee472fe74", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 231.6}
+{"ts": 1794807862.711446, "request_id": "9e53fe8437cd42498d0902d06a4f7cd0", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.6}
+{"ts": 1794807862.836505, "request_id": "29b9aa387f87439bbfc9c9e5f1bbead8", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.3}
+{"ts": 1794807862.8532572, "request_id": "ab3ed05157754b31b066f4570988e54c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 233.1}
+{"ts": 1794807862.9604545, "request_id": "b4777b60efb0439cb24ce687b46193ad", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.1}
+{"ts": 1794807863.0943193, "request_id": "c1facdcdc7114060bba06018774c8313", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 230.3}
+{"ts": 1794807863.1193113, "request_id": "f6275dedc884445eb8f20524c6f669e9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 240.1}
+{"ts": 1794807863.198371, "request_id": "246ca37be7b84844a049190e8066993d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.5}
+{"ts": 1794807863.36905, "request_id": "154fb444f2184fee97e2fe9ef82b8cbb", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 231.9}
+{"ts": 1794807863.3854437, "request_id": "4e4ee6654bba41a48e41c4431740158b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 235.8}
+{"ts": 1794807863.4491951, "request_id": "e12df3c4a1cf4331b3054acfb3eaac19", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.3}
+{"ts": 1794807863.6163254, "request_id": "ff0e16c9d0fb4b689c2b45902492bbde", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.9}
+{"ts": 1794807863.642987, "request_id": "fa35c15bf7bc452d987c9c08a841b6ff", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 231.0}
+{"ts": 1794807863.704351, "request_id": "ee3bda2f4f394c70b7bfaf0de0c4abba", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 235.6}
+{"ts": 1794807863.8931067, "request_id": "d7a8a75bbd2448f7a2d8e4c7b440bea3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 242.7}
+{"ts": 1794807863.9260585, "request_id": "72f3456b992842729c5764ed4249fc33", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 240.8}
+{"ts": 1794807863.9680378, "request_id": "ca02d007a4804ee0a0c248aafac0355f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 241.8}
+{"ts": 1794807864.1643746, "request_id": "673e7fad027949428a31fdd1eab24700", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 229.3}
+{"ts": 1794807864.1842322, "request_id": "4a6098becfeb450c8b28ddb760c37786", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 230.0}
+{"ts": 1794807864.2176466, "request_id": "0c580c31b51d46238db1dd3f90931c01", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 236.3}
+{"ts": 1794807864.4090447, "request_id": "690367f363334603940040a757c3e363", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.9}
+{"ts": 1794807864.4573128, "request_id": "c0757bb68d324a399faa94f030938889", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 250.2}
+{"ts": 1794807864.476984, "request_id": "8a54f17441764206b1a203e756bc0391", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 237.8}
+{"ts": 1794807864.6646047, "request_id": "b48e84e59b964ff4a8f433d76667ddfc", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 229.3}
+{"ts": 1794807864.7167745, "request_id": "32fd7aaca5bd450eb64698a293c765ff", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.1}
+{"ts": 1794807864.738798, "request_id": "683d458ac3cc4b1da03b6ac13e0961b0", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 232.7}
+{"ts": 1794807864.9091024, "request_id": "6887451e697b405ebbf25aba854c8bb3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 222.4}
+{"ts": 1794807864.9816186, "request_id": "718ce99c9b384d2394577255531501d0", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.5}
+{"ts": 1794807864.9992633, "request_id": "7f3510b6d9ff49ddb676d2d2cc4ddcd5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 229.4}
+{"ts": 1794807865.1552465, "request_id": "b6599b13017b411a88ba1b186be52b49", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.8}
+{"ts": 1794807865.2302694, "request_id": "82c6db7ac686424c9e4c9bedc801538e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.2}
+{"ts": 1794807865.2537863, "request_id": "cb41d30859244f0f8c92699d04ae216f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.2}
+{"ts": 1794807865.3938615, "request_id": "f10f0bb94a0540fda76bebe6869b6f64", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.0}
+{"ts": 1794807865.4807093, "request_id": "40e7af1765af43b4b8ba94d32d1f6d20", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.7}
+{"ts": 1794807865.5067794, "request_id": "a724d25feee043fb938b25859cf10ae2", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.5}
+{"ts": 1794807865.628728, "request_id": "d9ea1ec999034b83badc0e2761484c63", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.6}
+{"ts": 1794807865.745077, "request_id": "39cb3a03ee6a47848cbebafa6bbe47be", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.9}
+{"ts": 1794807865.7564213, "request_id": "c63c43b26dbf40e195c342763ca268b7", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.1}
+{"ts": 1794807865.862817, "request_id": "f6e3a64258b7413aa6b1ccfa48fe1256", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 221.2}
+{"ts": 1794807865.993836, "request_id": "49cc1074b29a4394b151cac7eb322537", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 223.6}
+{"ts": 1794807866.0044286, "request_id": "e1eff2378860404ba4627c96c322c884", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.8}
+{"ts": 1794807866.1188755, "request_id": "98b85d326e97475f80849bb92d46851d", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.6}
+{"ts": 1794807866.230943, "request_id": "4f81ba99a53f49049a377b8d21accbc3", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 223.7}
+{"ts": 1794807866.264241, "request_id": "dfbc58e79ecf46c199025d5b5c523c3f", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 236.7}
+{"ts": 1794807866.3460426, "request_id": "f4ea7ee88e7748d090f2206b40dc14d0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 222.7}
+{"ts": 1794807866.507395, "request_id": "45dc778844524ed1a32369f69ac7d869", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 224.1}
+{"ts": 1794807866.519171, "request_id": "8e00035f76a04c2e934525a0185aa647", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 230.9}
+{"ts": 1794807866.5960326, "request_id": "851228f2431a42bb9a73c38590067cab", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 221.7}
+{"ts": 1794807866.7633054, "request_id": "03894e2ed10d448983142aefc741e17d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.5}
+{"ts": 1794807866.7821076, "request_id": "db8a18d8b8f449b2b5994e09c3f7d3d0", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 223.8}
+{"ts": 1794807866.830049, "request_id": "631c939e97194613aae5943d15278bf2", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 220.9}
+{"ts": 1794807867.0055475, "request_id": "71d46004205f4475a0eb19d3fe0da347", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.1}
+{"ts": 1794807867.0323634, "request_id": "37ae5433937e4829a3d76bd1b4cd0a32", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 232.9}
+{"ts": 1794807867.0790985, "request_id": "8ad2cfa2eddb470f8b416261e065ee80", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 227.0}
+{"ts": 1794807867.2704046, "request_id": "fb7c747f61e34e4fb4bfb22aa8e239cd", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 224.6}
+{"ts": 1794807867.2981198, "request_id": "6e3d6c222dd446579f2a40049ed530f1", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 241.9}
+{"ts": 1794807867.3223052, "request_id": "db8d7acd7f774eae8d1d239034417122", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 225.3}
+{"ts": 1794807867.5050728, "request_id": "b4a8c73eb62d4b76a269aff4ee79d4fd", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 229.8}
+{"ts": 1794807867.611975, "request_id": "0137bc9e7bcd4204bdd401f6de7220ea", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 295.5}
+{"ts": 1794807867.6346653, "request_id": "866434c8e0f0469a8465a3934337257c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 292.9}
+{"ts": 1794807867.8738813, "request_id": "bb741fcb414a445d8e6a6bb951672e3e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 228.9}
+{"ts": 1794807867.8991704, "request_id": "4cea8f1bee5a414287da6b5f5a2cbbf3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 238.1}
+{"ts": 1794807867.9117002, "request_id": "ae87ff11a537457a8dd23c6d5245d578", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 245.3}
+{"ts": 1794807868.148912, "request_id": "b4a051963397401da6b098f04b735753", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.6}
+{"ts": 1794807868.1675396, "request_id": "1ee83d765d0d4f60ab672a6fe75307f0", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 232.5}
+{"ts": 1794807868.1876109, "request_id": "de07c128f14a42e0b01e770a78a57f1e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 246.0}
+{"ts": 1794807868.406926, "request_id": "4826a4344c6c4e08b14f00e6cf7864a6", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 234.8}
+{"ts": 1794807868.4279835, "request_id": "9757e8f36f5341bd8ac224df73971e45", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 226.9}
+{"ts": 1794807870.3849268, "request_id": "497be1aa3dbd4d8bb57940a47123eea6", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 294.3}
+{"ts": 1794807870.3989353, "request_id": "cea8ac4d1b3743379b11ab7e9ea94144", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 296.9}
+{"ts": 1794807870.5374393, "request_id": "cbadb31b315b443dad67551153898846", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 458.7}
+{"ts": 1794807870.89567, "request_id": "7c42e902bbc9407da4171a7de45e4d37", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 745.5}
+{"ts": 1794807870.906942, "request_id": "6d17e40c4f4d488aad7cc2ead388df9d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 789.8}
+{"ts": 1794807870.9402359, "request_id": "b9b32221dac94f75a1a9fadee3a213f8", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 817.2}
+{"ts": 1794807870.9566178, "request_id": "d1af61ccb1034de198be46e3e3ac2ce2", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 798.5}
+{"ts": 1794807870.9735057, "request_id": "0c78d57f4f434553a0d2267d07c33c70", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 867.0}
+{"ts": 1794807871.1311593, "request_id": "586280cdcc234acfb42cd0b253575831", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 933.1}
+{"ts": 1794807871.139719, "request_id": "da94244a131a4a18908c2e63c0fd6040", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 892.3}
+{"ts": 1794807871.1604931, "request_id": "2be18a2cbdee46eeb27c2c3ed24a1069", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 861.1}
+{"ts": 1794807871.1841147, "request_id": "6fbeab964c9748e69fe9ea24a555a6f6", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 999.9}
+{"ts": 1794807871.195048, "request_id": "db4e1c2d2cf64321b07926570a8c4e28", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1060.1}
+{"ts": 1794807871.2111158, "request_id": "323140c656fa423b90e2acb8f45072d8", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 801.0}
+{"ts": 1794807871.2980216, "request_id": "b6b070fb3acc4ab69e4925edcb9f4670", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1122.2}
+{"ts": 1794807871.3147776, "request_id": "f6eb424c9cb942c3ba03bda0cd5da3e9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1080.5}
+{"ts": 1794807871.3458412, "request_id": "6f8677f2b4c6458b8edb4c27c544256c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1067.9}
+{"ts": 1794807871.35612, "request_id": "892986c4163c4e38a1c4afcce76642b9", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1096.1}
+{"ts": 1794807871.3973327, "request_id": "f1004e49a146415cab04113cc9b69835", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1070.8}
+{"ts": 1794807871.4324362, "request_id": "479c8390c0d141a194bbf3e04888f814", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 874.5}
+{"ts": 1794807871.458826, "request_id": "cea99a19362647d48b971b69717dcf18", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1249.9}
+{"ts": 1794807871.4726508, "request_id": "2e206794bbb846568f7e2449aceaa68f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1161.9}
+{"ts": 1794807871.5057998, "request_id": "c56288808db74268bf108bc8b91b0c93", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 578.3}
+{"ts": 1794807871.5308635, "request_id": "dcf917c80f9a474e9e4584712a72b1f8", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 520.6}
+{"ts": 1794807871.613667, "request_id": "9ec21b0d80cc42eba429a3a3ef7c1d42", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 622.0}
+{"ts": 1794807871.6905844, "request_id": "19c55685284040e6bf0aedc9000fc98f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 1265.4}
+{"ts": 1794807871.7717526, "request_id": "6105cb2328cf40499f92eac0ebba600a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 735.6}
+{"ts": 1794807871.7873852, "request_id": "a3034f9e7b934de6bff4863710e5abf3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 850.8}
+{"ts": 1794807871.8131676, "request_id": "0fd73cb2f16f4172ad4a590242b4238c", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 487.2}
+{"ts": 1794807871.9835749, "request_id": "86a4af5a4d3a47fc8077b9d6e9030c46", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 722.8}
+{"ts": 1794807872.0012705, "request_id": "8bff85d732d6450e94f8e47dad6d397e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 596.5}
+{"ts": 1794807872.0380793, "request_id": "63a4006bb09144639e689f9d2fecf10e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 594.9}
+{"ts": 1794807872.0609505, "request_id": "099532be90f44aa2a495cc6a8a78d43b", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 517.2}
+{"ts": 1794807872.1051571, "request_id": "695e7847e974414bab8f287e9e52e6aa", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 590.8}
+{"ts": 1794807872.1715891, "request_id": "2d9deb08ebb04d28990e1af062c7f703", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 541.2}
+{"ts": 1794807872.196679, "request_id": "1b023282342b4b71aecb781cc56b80e8", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 602.3}
+{"ts": 1794807872.2270827, "request_id": "aaff8622891842378af7e310e69c4c1c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 855.6}
+{"ts": 1794807872.2452986, "request_id": "3639120f753a4b85b908ba3c4915d41f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 762.9}
+{"ts": 1794807872.304138, "request_id": "c8b336a0f9d4410c959d61dec8f17671", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 737.6}
+{"ts": 1794807872.3549843, "request_id": "4e2077e281254bf8978c059ef8f1de97", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 651.6}
+{"ts": 1794807872.471061, "request_id": "8b980b6d98b84502a6f1c2c5e39cf519", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 652.0}
+{"ts": 1794807872.4873102, "request_id": "46aa354e0fda4952920fdaf8e6cdf3e6", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 758.4}
+{"ts": 1794807872.5343132, "request_id": "3b64ef0cc5f647e4b7fad5c8eeed0975", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 862.2}
+{"ts": 1794807872.5445254, "request_id": "b9ef2b97f6f54712bbdcc24373e41390", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 675.5}
+{"ts": 1794807872.5873744, "request_id": "5900645382174d8a8b54425e85421bc8", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 729.8}
+{"ts": 1794807872.6065152, "request_id": "21984a68f02a45d9aaf370e9e98391bb", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 777.6}
+{"ts": 1794807872.6441824, "request_id": "46e928495dec44208f29b3162147fd7a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 891.5}
+{"ts": 1794807872.687481, "request_id": "e776104b8af840829cdf8fae597fced0", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 910.3}
+{"ts": 1794807872.7040071, "request_id": "29c391394e1d46aa9da00cf8deae0d0a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 824.9}
+{"ts": 1794807872.7371728, "request_id": "551686026a8c4f90b4b74eb812971d04", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 550.9}
+{"ts": 1794807872.7705112, "request_id": "3da2e839f2e64448922358584c93e874", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 753.2}
+{"ts": 1794807872.8123295, "request_id": "0617ae399fcb46eeb233b45d0e1706b7", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 727.8}
+{"ts": 1794807872.8291435, "request_id": "d549c407de264d0a8ae1d7f66a7dabdd", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 611.8}
+{"ts": 1794807872.9348521, "request_id": "eb3c23f91c65473fa579ff7043959271", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 792.4}
+{"ts": 1794807872.9450593, "request_id": "0b3c7be0305449338a8db67097a38a38", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 647.8}
+{"ts": 1794807873.0041325, "request_id": "39834b358e2d4d25a91ce262cbf02c87", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 669.1}
+{"ts": 1794807873.0229478, "request_id": "6382b1c8487c43efa4ba840418a5f5ae", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 594.7}
+{"ts": 1794807873.0699108, "request_id": "2a9733df735c4d94ba29207fd5e29c01", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 609.9}
+{"ts": 1794807873.1133585, "request_id": "b282dd3b09b54778906f0959a4a4813e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 513.3}
+{"ts": 1794807873.1429374, "request_id": "c5c095a273604073bbdf609bf13a04c6", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 777.9}
+{"ts": 1794807873.2112253, "request_id": "cef6604e44104ebfa967c0095eb9a3c5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 494.4}
+{"ts": 1794807873.257778, "request_id": "fc2e016549124b488e16c43a3b73eb2e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 421.2}
+{"ts": 1794807873.3696108, "request_id": "37c92c46a87242a7a266cfaba80f6ae5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 515.3}
+{"ts": 1794807873.4126275, "request_id": "938ae812b3824bcbaa9e13386c74460a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 530.5}
+{"ts": 1794807873.4563866, "request_id": "00675cfa450f4ff5b4548c4770470dc3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 427.7}
+{"ts": 1794807873.5690248, "request_id": "d7be7b400c22492cb0520de61725ebe0", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 608.6}
+{"ts": 1794807873.6208227, "request_id": "858982d22a98449aa696dd9c7b0ecbe7", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 571.0}
+{"ts": 1794807873.7523057, "request_id": "cf32b04fa5324dd297bd968aacd36626", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 623.6}
+{"ts": 1794807873.760309, "request_id": "4eb8abe2d3ec4aec89b9dba8fa637ccf", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 535.6}
+{"ts": 1794807873.7734363, "request_id": "697b041df9c5407eb6d3562fd6754a87", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 579.6}
+{"ts": 1794807873.8024688, "request_id": "6a2890fff58f48bf96de4e3c9053b42d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 535.4}
+{"ts": 1794807873.835439, "request_id": "aa9335d95aac42a3adff560bd5147092", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 655.6}
+{"ts": 1794807873.8423522, "request_id": "eb232d168451461fa91f4ec47b0f74cf", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 760.0}
+{"ts": 1794807873.911236, "request_id": "423eec910ee148c58456915e8eb5052e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 753.1}
+{"ts": 1794807873.9321668, "request_id": "8f67cc27140a49a8a09b4fa8eb002720", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 652.2}
+{"ts": 1794807873.9427316, "request_id": "40e1eb31a74842baafbb783e0aa926cf", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 624.7}
+{"ts": 1794807874.011587, "request_id": "9fcff33b3016497883804cff974aabae", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 654.0}
+{"ts": 1794807874.093102, "request_id": "dbb058dda6f8457998396f70d66e64ce", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 783.3}
+{"ts": 1794807874.1183074, "request_id": "6cfceef578614f199ff77547d8f0a191", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 873.5}
+{"ts": 1794807874.125786, "request_id": "2ba6eafbb1344864a8afd657b8b404f5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 835.1}
+{"ts": 1794807874.1440945, "request_id": "e2a7aea93f414bc68c72546b11fab325", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 811.8}
+{"ts": 1794807874.1704996, "request_id": "404d4fba165d48b897e34d1014fb5369", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 587.8}
+{"ts": 1794807874.1926284, "request_id": "ce2b0c5bddfe494b918de5fdadd1d087", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 796.3}
+{"ts": 1794807874.2379355, "request_id": "3a1c7c24da8f4ab4b3bdf40249a7eb71", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 794.3}
+{"ts": 1794807874.244005, "request_id": "7be3278df6a34b8080435625181e239e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 899.9}
+{"ts": 1794807874.275441, "request_id": "2b9ba65740ef43ab97327d35474b6e96", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 793.8}
+{"ts": 1794807874.3209884, "request_id": "6a4d2b5e8af84a80aa60bf30a09aec67", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 496.0}
+{"ts": 1794807874.3562884, "request_id": "1aa5f7ecc13346469dd1f00346ca067e", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 713.8}
+{"ts": 1794807874.384632, "request_id": "f3a289275eae4e41827e7055c8fa680f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 419.4}
+{"ts": 1794807874.395224, "request_id": "19c100ac911c4f4e8885e1dff435b757", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 526.2}
+{"ts": 1794807874.425845, "request_id": "37188191cd554e3bbba5617edbdf4107", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 542.0}
+{"ts": 1794807874.4344509, "request_id": "0a852499b5dc4612a700f7c2f6c45e5d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 460.6}
+{"ts": 1794807874.4634085, "request_id": "176367bec4264336ba5b6f929468b7b4", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 535.9}
+{"ts": 1794807874.5861294, "request_id": "2280aadf2b6c4cae9b2a6ac85d78a81f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 543.9}
+{"ts": 1794807874.6109812, "request_id": "b3830f3f3d4946f8a454868d02acd0fb", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 585.3}
+{"ts": 1794807874.694966, "request_id": "3bf992cea6554fb4898183e0adbc5e83", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 433.1}
+{"ts": 1794807874.7435026, "request_id": "e4223fb5e1a649bc8fb316e6ec3e7068", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 671.9}
+{"ts": 1794807874.7569964, "request_id": "6269cd7094964afcae6673c5b53d0281", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 457.1}
+{"ts": 1794807874.7671027, "request_id": "49a98a821ffe4496855f4b4748f7f299", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 604.6}
+{"ts": 1794807874.783803, "request_id": "1fbea601b92b40afbb92e762223b310b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 452.8}
+{"ts": 1794807993.0602503, "request_id": "626a52b481e64089826ada8299b72b28", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 404, "latency_ms": 29.5}
+{"ts": 1794808023.3605843, "request_id": "e1fb3f059c92437eb4f0ed89a42db4fe", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 27.5}
+{"ts": 1794808023.4049525, "request_id": "c7fb5b14c5bb4947ab6c3b017d6da6d9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 26.3}
+{"ts": 1794808023.4518623, "request_id": "37c385a6fcc14274bc2e02570ae04e91", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 25.3}
+{"ts": 1794808023.4987447, "request_id": "3324150890e44287979fe055c2dacf4a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 23.1}
+{"ts": 1794808023.5439074, "request_id": "31ce0b7754144193bb799c77e03fda4d", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.8}
+{"ts": 1794808023.5751636, "request_id": "de7d1afbc15a47fe850a5913fe99b6cf", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.7}
+{"ts": 1794808023.6235838, "request_id": "82bea61c911a49f9aab22610eb913256", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 23.5}
+{"ts": 1794808023.7433248, "request_id": "3907eefd44924f1d9e24cf483dbf1253", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 81.0}
+{"ts": 1794808023.859998, "request_id": "6e8e446992d840869cabf2d8c7049e6d", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 65.9}
+{"ts": 1794808024.0934117, "request_id": "470316ae914a4b8eb39e99188d9db390", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 160.7}
+{"ts": 1794808024.1847596, "request_id": "99580576dd4542aeb7169a30cdcc10d3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 60.1}
+{"ts": 1794808024.2930732, "request_id": "2c5d040c57c1486dbd10b4fec2c19163", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 46.0}
+{"ts": 1794808024.3366406, "request_id": "f8a2af7f66ae48f39b95591b772f03bf", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.6}
+{"ts": 1794808024.3800845, "request_id": "cdbc2bfad66e4523aaaa68fce190a2ec", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 29.6}
+{"ts": 1794808024.4321349, "request_id": "5ef6b4e716754f6286c255893c7bce55", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 29.1}
+{"ts": 1794808024.5673459, "request_id": "30218dc3a0ef4f1a85a4843bf4c6f576", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 28.4}
+{"ts": 1794808024.612796, "request_id": "620cb2ba9aa449b9b4cbe86514642609", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 28.4}
+{"ts": 1794808024.6618388, "request_id": "6dc50d6af5e64a058743a1cb0348a61c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 23.0}
+{"ts": 1794808024.6925294, "request_id": "c3897f3355044fddbc02ff0d8eff9c8c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.7}
+{"ts": 1794808024.7338986, "request_id": "aafd30e85c84470285600919453b275a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.9}
+{"ts": 1794808024.7756279, "request_id": "fefa995954f94af0a5f5436a0bbb9be8", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 23.0}
+{"ts": 1794808024.8111348, "request_id": "9d5b6af128f24d15a9c805f73d923f34", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.5}
+{"ts": 1794808024.8588645, "request_id": "f4e43f82696e42e991251766fe12d5e6", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 26.2}
+{"ts": 1794808024.9007082, "request_id": "d06de5edad06471c8ebed5c7e6c4cf89", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 25.2}
+{"ts": 1794808024.9417427, "request_id": "de55d233309d46ad86234033fb0d8912", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 23.3}
+{"ts": 1794808024.983161, "request_id": "d7ab0e7f1a6341f780294138fab6a618", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.4}
+{"ts": 1794808025.0251267, "request_id": "ee82af990dfd48e383509f39a8388e7e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 26.8}
+{"ts": 1794808025.0730312, "request_id": "290b6836d1cb4a8da4ecee6f292f712d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 19.5}
+{"ts": 1794808025.108274, "request_id": "b0b1f01b34b94c6bb5508ff9450a5426", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 19.5}
+{"ts": 1794808025.1414063, "request_id": "9e6dcc4b8896444c87c4cd7da2921100", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.1}
+{"ts": 1794808025.1882946, "request_id": "85487a1b845840c5ad815b996b8905f0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.7}
+{"ts": 1794808025.219615, "request_id": "b407c95a58f84b32a64fa19344c28ac9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 19.9}
+{"ts": 1794808025.2747164, "request_id": "6fb0a93308734125aadff48c8a6a885a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.1}
+{"ts": 1794808025.3081088, "request_id": "889a244d12f4444d869f69361126d688", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.2}
+{"ts": 1794808025.341426, "request_id": "a53327a943b3409b85907b6be3ee86a3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.9}
+{"ts": 1794808025.382582, "request_id": "ebb0800e471247c1a07f0a7606b055ae", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.9}
+{"ts": 1794808025.4244642, "request_id": "e8c1ff66a9db4ca39dc371be95982153", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.7}
+{"ts": 1794808025.4609613, "request_id": "ae1e03b384114946b786ae704eda15f7", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 26.9}
+{"ts": 1794808025.5157368, "request_id": "3594cc2f834e4498abaad08e08a60414", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 27.3}
+{"ts": 1794808025.5548549, "request_id": "b9c60c36a330407bb4d90b2725e8ef51", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.6}
+{"ts": 1794808025.5912974, "request_id": "513899e0261d42468adc25419461370d", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.3}
+{"ts": 1794808025.6330714, "request_id": "feb0a55aea2e474091bd6b8b6328bb4b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 25.8}
+{"ts": 1794808025.682147, "request_id": "a02795074bca4fc0882d57237b4c0bb2", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 26.5}
+{"ts": 1794808025.7152517, "request_id": "34111a8fbd824b2aa12e605c4d962d6c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.6}
+{"ts": 1794808025.7574017, "request_id": "2a888458488c40a183170def7e8dc0e1", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.9}
+{"ts": 1794808025.7911918, "request_id": "9685802da50b49458afdb4c42d742e94", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.0}
+{"ts": 1794808025.8571138, "request_id": "1902c1d7e5e04d1d919760ac71fe759f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 25.8}
+{"ts": 1794808025.8960066, "request_id": "cfee1a5e82cc487981423f938b894d3d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.3}
+{"ts": 1794808025.9480083, "request_id": "914159ab1cd14130947242843c75c542", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 31.1}
+{"ts": 1794808025.9903595, "request_id": "465845557ce04e1fb0c5a412199fdbd4", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 25.4}
+{"ts": 1794808026.0244172, "request_id": "18431dcbcf3a4b35a386a95323b43ad4", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 19.6}
+{"ts": 1794808026.073403, "request_id": "bc90a78066a94a09a66e37a8fd5c0ee8", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.3}
+{"ts": 1794808026.1146798, "request_id": "62783347b75943878d1539e9aa6cc145", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.2}
+{"ts": 1794808026.1532252, "request_id": "65b02a9e416f4cb8990bb207f29de0df", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 21.7}
+{"ts": 1794808026.191241, "request_id": "97acfe6444784cc3b0377ad1b66c95cc", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.6}
+{"ts": 1794808026.2289217, "request_id": "8ea3bc183d694209b8c0f5571766e5b5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 23.4}
+{"ts": 1794808026.263381, "request_id": "a47d20dd39e944a388ca6fc5760da907", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 20.5}
+{"ts": 1794808026.3064861, "request_id": "1d873f70e7144a92a96f80832a195fa9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 19.7}
+{"ts": 1794808026.3396878, "request_id": "3ab8400efa0d4da9b581c80bbec7cd5b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 22.4}
+{"ts": 1794808026.3990514, "request_id": "cebe3cb8e25543439e3fd0dee3657faf", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 40.5}
+{"ts": 1794808144.3955405, "request_id": "745175df22c94961bd37d28eb2000fa9", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808144.4156027, "request_id": "94253ea82ad34fda904e4ca465fb72ed", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.9}
+{"ts": 1794808144.422488, "request_id": "a5ce343282ee4382aa4ed3190d52100e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.8}
+{"ts": 1794808144.4520547, "request_id": "1046d3af30ad45bc8d038f3b8ff74779", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.3}
+{"ts": 1794808144.4688993, "request_id": "8a78396644974ae2ae38761e0a02e9e2", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.4}
+{"ts": 1794808144.4750836, "request_id": "563bac7739c44e85a1ad99f5a77793b7", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.0}
+{"ts": 1794808144.4834454, "request_id": "31921ce653ba47feb256efde5aa5bcc8", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808144.4893672, "request_id": "7b523e52874345d78f106bd33581698c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808144.51865, "request_id": "c1c562ca7b734d5ea938717bc80def8a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.3}
+{"ts": 1794808144.5249212, "request_id": "d43f96a63ab64e9d92962788af70ea1c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.4}
+{"ts": 1794808144.5526004, "request_id": "f393800af5404ac3b0fe6b9a3ecf27cb", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808144.5692089, "request_id": "825b279a4fbd42839ebe02e42f63727d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808144.57521, "request_id": "89b65d4ff96440ddb54f095089b83b9b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.4}
+{"ts": 1794808144.5816014, "request_id": "68dca04dc85b4ea5bf6fd3046ef9e22d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.4}
+{"ts": 1794808144.5883815, "request_id": "062ebfa80b4240608b60a4af3d50db1a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.6}
+{"ts": 1794808144.6032507, "request_id": "60d66fd87cbd48748208ab9204290a6d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.6}
+{"ts": 1794808144.6101797, "request_id": "416e0f51206d4b2e9654536ee6ad646a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808144.616814, "request_id": "947e00a4e7dd46b58b0785e34de8ca6d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808144.6463013, "request_id": "adb153c2130648739a240c14b49ae665", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808144.6691902, "request_id": "00112502caf84487ad1c9e9cef80ae6f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.4}
+{"ts": 1794808144.6722279, "request_id": "5b3bac0fbf2347df85c604595b2dc251", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.7}
+{"ts": 1794808144.6836522, "request_id": "43503bcf57a740c8b87ba3b4c5d4db3f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.5}
+{"ts": 1794808144.6916492, "request_id": "94d264c5fc4c4847a84fb9edb1e78b9b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.4}
+{"ts": 1794808144.6997032, "request_id": "a05d9433eacf41e481c74ecd3a3726cb", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.4}
+{"ts": 1794808144.7067003, "request_id": "77c85642ffee4f62a85ab726e862f6ef", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808144.7147079, "request_id": "68d37e4afe81460b81908e9746d97bc6", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.8}
+{"ts": 1794808144.7224257, "request_id": "e05033a14e1e4c08b0a9f8afbadaaca5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.3}
+{"ts": 1794808144.7294385, "request_id": "83a63c1aec654746891da86c6727ca44", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.6}
+{"ts": 1794808144.7362933, "request_id": "15d6931fff4e402c9f53577cdf6e7ac6", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.6}
+{"ts": 1794808144.752875, "request_id": "32903165bcff49f7b731b1eb6c84ac88", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808144.7608805, "request_id": "ec446309d8dc4685a96902f06d399654", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808144.7986047, "request_id": "cbd257e7200846f2965566e7025fa161", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 34.2}
+{"ts": 1794808144.8300588, "request_id": "d201a86d82c24cd69d1d9f1c1c095263", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 26.6}
+{"ts": 1794808144.8498254, "request_id": "eee3985b5fce47cb8ac3c655d5cdf3b2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794808144.8568258, "request_id": "c29b6c22f1b74d0c8395b1cdcaba1880", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.4}
+{"ts": 1794808144.8745651, "request_id": "75fb2e41155245448d4f40142fe6b4a2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 13.3}
+{"ts": 1794808144.8851562, "request_id": "6262e06d84ae4f5f93b87994976b7f97", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.1}
+{"ts": 1794808144.8918266, "request_id": "be7d87cbcf2143998a92d46035bfee1c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.7}
+{"ts": 1794808144.901737, "request_id": "80c4b48d635e487592ad05c29632c74c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.0}
+{"ts": 1794808144.9102392, "request_id": "e3b089aa4dca41c8a2e0916e0017779c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.3}
+{"ts": 1794808144.919061, "request_id": "24ac28272cd64fd59929290f39e06c74", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.2}
+{"ts": 1794808144.928031, "request_id": "fc80f0762fa4490c909c97c7ce8c15ed", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794808144.939337, "request_id": "47a71b6402644423b934c3dc58a466d7", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794808144.949084, "request_id": "0f498bffcc62401abbe589082a8db63d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.4}
+{"ts": 1794808144.963599, "request_id": "c2f5d1a5dc47484fb0235c040cd3f5ed", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.5}
+{"ts": 1794808144.9741714, "request_id": "226985010bb848e68dc9a86714422bf0", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 7.2}
+{"ts": 1794808144.9924176, "request_id": "9863b0d4607e48479dc2ce2761157843", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 8.8}
+{"ts": 1794808145.0058064, "request_id": "ce0152efad8d4c9bb9bf42e75626d306", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 8.8}
+{"ts": 1794808145.0186057, "request_id": "fa8c3c2d98314c8689f585aa3e113da0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 8.2}
+{"ts": 1794808145.0286038, "request_id": "3c7b25e149dd4d50a09b323071d43fe8", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.5}
+{"ts": 1794808145.0411549, "request_id": "134107e52dae4c39a0e583f2058d36b5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.0}
+{"ts": 1794808145.0508964, "request_id": "a4db5339ea9d4d838723c41d7f14bb5b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.1}
+{"ts": 1794808145.059417, "request_id": "726d5249a6824cbfa4057f7ed43dfda0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794808145.069482, "request_id": "6d038a6bbb5f4998b89af2f6eb19817d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794808145.0784843, "request_id": "0a895c9282b649e3a2784b1182ee95d5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.9}
+{"ts": 1794808145.0879521, "request_id": "553255655d9a4a988382c749eaffd626", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.9}
+{"ts": 1794808145.096983, "request_id": "7ae9eb156d294269815e146746a37f32", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.9}
+{"ts": 1794808145.104947, "request_id": "29aa135998b94639a174be1bcf96fec5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808145.1140213, "request_id": "536acfefb9ea4a569c5fa63d26670e8b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.2}
+{"ts": 1794808145.1241395, "request_id": "5a1119d1acd04d0aad97f87cd30e3ce0", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794808145.1338987, "request_id": "a905b7d0064c4f8da9e6763c094e4369", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.6}
+{"ts": 1794808145.141898, "request_id": "e7ea0f6af47f4189be6bd64750ce324b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.5}
+{"ts": 1794808145.151569, "request_id": "39a4ed535d44470fb01f75d3b3c607d6", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.7}
+{"ts": 1794808145.15957, "request_id": "3c599490852e493eb9e9c7c01d953719", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.6}
+{"ts": 1794808145.1658692, "request_id": "dd53d6848db8418fbe37db662bd77021", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.3}
+{"ts": 1794808145.1658692, "request_id": "4d7814c0e7eb4cd183831bf0ab463602", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.9}
+{"ts": 1794808145.190446, "request_id": "9229b9d90e624eef8523d8d76bffeeb4", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794808145.2009614, "request_id": "b18a8e57911944b3b5c2e77e5171dafe", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.5}
+{"ts": 1794808145.20896, "request_id": "fc33f2a9a5054978b786015a36758992", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.8}
+{"ts": 1794808145.219749, "request_id": "2e034f550a674d9cb04be09e752e304c", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 7.4}
+{"ts": 1794808145.2297986, "request_id": "7c40a475d0144f9ca69f36031a6d78f6", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.4}
+{"ts": 1794808145.2407928, "request_id": "e6a26975f2314bb6ac12568690b8a46d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.0}
+{"ts": 1794808145.2522583, "request_id": "fa7d7bf635c34906819bc1a7154a0b98", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.8}
+{"ts": 1794808145.2549734, "request_id": "761d6726b36341e2bd0b5183695349a2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.3}
+{"ts": 1794808145.272729, "request_id": "1e5fe877e2b44c2aa5c4b128a0a4b8c6", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794808145.285028, "request_id": "d1e9aea3ba9c4455b21b82b80139b205", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 7.4}
+{"ts": 1794808145.295029, "request_id": "f5e8548d50a442e0930b773caa0acc32", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794808145.298973, "request_id": "efcb006940734bfda653b13bc05855f6", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.1}
+{"ts": 1794808145.3146985, "request_id": "159228f402544d9c86d89be45679a389", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794808145.3237948, "request_id": "1e9743e9f46e401eb45d86a0627bc3a2", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.8}
+{"ts": 1794808145.334603, "request_id": "b69f448aac924062a8736ba2fd71cee3", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.0}
+{"ts": 1794808145.338885, "request_id": "58b7e6888b4d4a9588150f8e02b51b3b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.9}
+{"ts": 1794808145.355306, "request_id": "6f764ce0b7814758ac76968e7606cca0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.1}
+{"ts": 1794808145.363897, "request_id": "0fe7f76dc11b4139b4926c7bd467a125", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 8.1}
+{"ts": 1794808145.363897, "request_id": "08002af88c7444ff95bd53ae0423a921", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794808145.3857634, "request_id": "00f27914aaec4217ac737ac2358f1d0d", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.0}
+{"ts": 1794808145.3908129, "request_id": "829a82fcbe734610abdee865bee78e22", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.2}
+{"ts": 1794808145.3971405, "request_id": "cbf87e14e6cd4666b020f7f272554b48", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.0}
+{"ts": 1794808145.414914, "request_id": "54609a3dbb14403cb9a8132dd0ca71b7", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.9}
+{"ts": 1794808145.4239132, "request_id": "cc239990836440a29a67b824fb2c3fac", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.9}
+{"ts": 1794808145.4337482, "request_id": "710126f5b883428dba236275f2f1b737", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 6.6}
+{"ts": 1794808145.4365175, "request_id": "ffe976dbcbe44a569f1fb3933c488c02", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.6}
+{"ts": 1794808145.4514384, "request_id": "e833e94dd3234765876343113419a109", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794808145.4598787, "request_id": "83adb71e942341089cc327366c88ccd5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794808145.4696715, "request_id": "1e09fac058c849cc9e2638d5e2c4c2e4", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.7}
+{"ts": 1794808145.4760122, "request_id": "fc2e21eaef674662a26b34dc7a70fb4f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.8}
+{"ts": 1794808145.4760122, "request_id": "743aeb86596c403c8c8cdb790196d83c", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.8}
+{"ts": 1794808145.491639, "request_id": "2715e0931868477a93057706be64cc77", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.7}
+{"ts": 1794808145.505002, "request_id": "fe9812a0af804ef6bf383b81dbb09b6a", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 4.9}
+{"ts": 1794808145.514351, "request_id": "680e8de10d534362852198924bd1f292", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudC"], "status": 200, "latency_ms": 5.6}
+{"ts": 1794808216.173331, "request_id": "80680a4c8caa4f73be85dc7be86d427f", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.3}
+{"ts": 1794808216.1941986, "request_id": "9ee5f1888ba343b792fb65b1afcd9860", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.7}
+{"ts": 1794808216.2016017, "request_id": "4c280f0a94904ebe881f2599bf140026", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.3}
+{"ts": 1794808216.2195919, "request_id": "2ed86c1364bf46aa9272bdea1049c792", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808216.2266045, "request_id": "cc9e60be0f0f4dfca7867ed51a557477", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.8}
+{"ts": 1794808216.2345455, "request_id": "75a250504a1f4296951f16c1db38fc72", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808216.241369, "request_id": "c387773e1ef34220811ffc9b624e591b", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.8}
+{"ts": 1794808216.2710035, "request_id": "c8f074929dae49ce815eb696260df605", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.5}
+{"ts": 1794808216.2771153, "request_id": "94f72d7a5f854b459ecdcec6093f8685", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808216.2842116, "request_id": "92eacc00e97044f78e776fac6eca54b5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.2907746, "request_id": "bd9af3e0e90f479bbd9257fd4a80b24a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.6}
+{"ts": 1794808216.3025568, "request_id": "8b7ec1cd496047f9972911790d816093", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 8.1}
+{"ts": 1794808216.3326886, "request_id": "27ae0cab4e2f46c396d8499e52f40e09", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.6}
+{"ts": 1794808216.3725586, "request_id": "de5c4a0dd0c04aadb4f62e5aa5d81092", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 11.1}
+{"ts": 1794808216.3805597, "request_id": "25a3b49f75274408b315767e8add4129", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.3875997, "request_id": "433d100873d74ff7aa601fb58984bbab", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.4040577, "request_id": "7b8c50ffb259457f826dbb080961508a", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 12.5}
+{"ts": 1794808216.413057, "request_id": "9e3740588373473ab472874a3eb2b680", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808216.4195929, "request_id": "76388f70d26f4821ba36a66ecd9f14f0", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.9}
+{"ts": 1794808216.4265924, "request_id": "3530e9808f87471ca26a8e3a6dd99fb9", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.8}
+{"ts": 1794808216.433343, "request_id": "924e4e8f46b54b54b7ec74cce26d917d", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.0}
+{"ts": 1794808216.439915, "request_id": "ca4128ebae5d4059b13a51871458de64", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.8}
+{"ts": 1794808216.4469154, "request_id": "f85f04906e344c49ab17c5754a71201b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808216.453936, "request_id": "f66faeedd21f4732b9fd05704ddbaad3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808216.4608088, "request_id": "1159a9bc8b9b49db882ce3f28c01c669", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.6}
+{"ts": 1794808216.4688075, "request_id": "396ec5dfbc2b43f296826a6e7a63fbd5", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.4}
+{"ts": 1794808216.475807, "request_id": "91b8e94afd5d4256aab6189234b79750", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808216.49793, "request_id": "d6d5b4edbd194d5480acb83a2dd67810", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.5140944, "request_id": "f8bc00964eb64ccea2a5b1f7748ebdef", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.3}
+{"ts": 1794808216.522023, "request_id": "2f709bfddfea4144bcc3394bcecf60a3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808216.5525322, "request_id": "4b7bc1b3b35f41e1988b143288835cd5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808216.5591402, "request_id": "7c77bb30eab04334adcebd4992cec3ca", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.566446, "request_id": "5816961155564cd19feb273805a3b3d5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.1}
+{"ts": 1794808216.5733063, "request_id": "1971d718f52347969b772a95594de9c5", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.6}
+{"ts": 1794808216.592955, "request_id": "c9a4dfe743d34d6da394829c3cc0af7e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.6190555, "request_id": "081f7b50ee764b6cb245afe0e54a85e5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.3}
+{"ts": 1794808216.6353903, "request_id": "ea903e5a7b174a139fd9ce8a75d64022", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.4}
+{"ts": 1794808216.6533308, "request_id": "e53bf152efdf457abf47b7c6c4c10235", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808216.6593208, "request_id": "0daaf065db144a6886e53eaa90e6c1d7", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.6671226, "request_id": "f5143113db50468a9d6e1efb033532dc", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.6}
+{"ts": 1794808216.6865823, "request_id": "c60ff150822e4c15a02703d8ec870003", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.4}
+{"ts": 1794808216.7032785, "request_id": "4ade10e254c34914b95d16011be0aa79", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.7199218, "request_id": "565a8ea9cce64d8781280af479a57fe1", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.5}
+{"ts": 1794808216.73656, "request_id": "e80706176dd74d3aae48a7e041f2feda", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 3.7}
+{"ts": 1794808216.7435634, "request_id": "7c48328534ed4b348dd60f0d103c805a", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.8}
+{"ts": 1794808216.7506888, "request_id": "1391df4dee5e438a8270cece4d54b210", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.4}
+{"ts": 1794808216.7616858, "request_id": "5187bd454c1f4539a96479a4879e1b1b", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794808216.7703588, "request_id": "8c423e2cc4794380b3455f8f40a969b3", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.1}
+{"ts": 1794808216.7783587, "request_id": "6de1b31e1bd24e8a9163d83f81089d20", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.7}
+{"ts": 1794808216.8340938, "request_id": "200164713129434c822d20efe28dc23e", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 51.3}
+{"ts": 1794808216.8450966, "request_id": "5d05d86092c74c738ecd574b578db259", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 6.5}
+{"ts": 1794808216.854564, "request_id": "b2a2b75b3faa4d6aa50a03196001b651", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.7}
+{"ts": 1794808216.902349, "request_id": "763d225f2a6141229d0c7ec2a3dae700", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 43.0}
+{"ts": 1794808216.9700758, "request_id": "db0c3c2183bc4fdb8ec8e80166b812fc", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 29.1}
+{"ts": 1794808216.9790747, "request_id": "da21e3851f82415294c0d7b34da08388", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.4}
+{"ts": 1794808217.008637, "request_id": "6fd3898bfdb242cc86d7f3fbf1641f0f", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 11.6}
+{"ts": 1794808217.0189283, "request_id": "4e9e9a20766141d1957dc1f17e74bec5", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.1}
+{"ts": 1794808217.026927, "request_id": "0912a4e3e627466e9b5de1d3e2ea359e", "policy": "round_robin", "chosen": "cloudC", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 4.2}
+{"ts": 1794808217.0374203, "request_id": "40cf380ec1dd426ebc5eba820fd7d5eb", "policy": "round_robin", "chosen": "cloudA", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.8}
+{"ts": 1794808217.0474217, "request_id": "90eb1ba4f1384b93869ee164f51432d6", "policy": "round_robin", "chosen": "cloudB", "eligible": ["cloudA", "cloudB", "cloudC"], "status": 200, "latency_ms": 5.7}
